@@ -22,5 +22,8 @@ img {
 }
 
 button {
-  border: none;
+  border: circle;
+  background-color:#fa8ff9;
+  border-radius: 50px 40px 20px;
 }
+
