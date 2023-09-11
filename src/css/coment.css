@@ -57,3 +57,9 @@ strong {
     margin-bottom: 10px;
     background-color: #fff;
 }
+.tuc{
+    color: white;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+}
